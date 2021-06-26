@@ -1,6 +1,6 @@
-<p align:center>
+<center>
   <img height=60% width=50% src = "./code.gif">
-</p>
+</center>
 
 ### Hi there 👋 
 <a href="mailto:saikumarvurukonda@gmail.com">
