@@ -1,5 +1,5 @@
 <p align:center>
-  <img height=100% width=150% src = "./code.gif">
+  <img height=60% width=150% src = "./code.gif">
 </p>
 
 ### Hi there 👋 
