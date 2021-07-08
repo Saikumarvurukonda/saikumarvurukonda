@@ -13,7 +13,7 @@
 
 - 🔭 Experienced Software Engineer who is passionate about solving complex problems and loves to explore different domains of Computer Science. I hold relevant research experiences in the field of Internet of Things, Desktop Applications, Web Applications, Embedded Systems, Actively Looking for Software Engineer role..
 - 🌱 please feel free to shoot an email if you are interested.
-- 😄 Pronouns: he/him/hi
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a hardware designer too. 😉
 
 <!---
